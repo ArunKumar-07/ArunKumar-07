@@ -1,5 +1,4 @@
-Hi 👋I'm Arun
-===========================
+<h1 align="center">Hi 👋, I'm Arun</h1>
 
 <h1>Connect🔗</h1>
 
